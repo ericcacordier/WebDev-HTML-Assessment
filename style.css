@@ -1,0 +1,64 @@
+body {
+background-color: #fff;
+}
+p {
+font-size: .7em;
+color: #F6EEF0;
+font-family: 'Titillium Web', sans-serif;
+}
+
+h1 {
+font-size: 1.4em;
+color: #F6EEF0;
+font-family: 'Titillium Web', sans-serif, bold;
+}
+h2 {
+font-size: 1.4em;
+color: #F6EEF0;
+font-family: 'Titillium Web', sans-serif, bold;
+}
+.glow {
+text-shadow: 2px 2px 4px #000;
+font-size: 1em;
+color: #F6EEF0;
+font-family: 'Titillium Web', sans-serif;
+}
+#container {
+width: 526px;
+height: 595px;
+background-color: #343642;
+margin-left: auto;
+margin-right: auto;
+padding-left: 70px;
+padding-top: 1px;
+}
+.parent{
+width: 190px;
+vertical-align:top;
+margin: .6em 1.6em .1em .8em;
+font-family: 'Titillium Web', sans-serif;
+color: #F6EEF0;
+font-size: .7em;
+display: inline-block;
+}
+ul,ol,li{
+padding-left: 0px;
+}
+.botbutton{
+width: 400px;
+text-align:center;
+margin-left: 20px;
+}
+#btnSave{
+width: 75px;
+height: 40px;
+font-size: .8em;
+font-family: 'Titillium Web', sans-serif;
+color:#F6EEF0;
+background: #972b3c;
+border:none;
+border: 1px solid #972b3c;
+border-radius: 2px;
+-webkit-border-radius: 2px;
+-moz-border-radius: 2px
+}
